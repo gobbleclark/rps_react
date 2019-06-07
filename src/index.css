@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#cards {
+  justify-content: center;
+}
+#directions {
+  display: block;
+  justify-content: center;
+}
+
+#outcome {
+  color: rgb(13, 110, 175);
+}
+
+#root {
+  background-image: linear-gradient(rgb(11, 97, 90) , rgb(255, 255, 255 ));
+}
